@@ -1,12 +1,12 @@
-# Floppy Turd - Privacy Policy
+# Pooper Trooper - Privacy Policy
 
-This repository contains the privacy policy for the Floppy Turd iOS game.
+This repository contains the privacy policy for the Pooper Trooper iOS game.
 
-**Live Privacy Policy:** https://TechnicalTortuga.github.io/floppyturd-privacy/privacy-policy.html
+**Live Privacy Policy:** https://TechnicalTortuga.github.io/poopertrooper-privacy/privacy-policy.html
 
-## About Floppy Turd
+## About Pooper Trooper
 
-Floppy Turd is a fun, family-friendly mobile game available on iOS.
+Pooper Trooper is a fun, family-friendly mobile game available on iOS.
 
 ## Contact
 
@@ -15,4 +15,4 @@ For privacy-related questions or concerns, please contact:
 
 ## License
 
-© 2025 Floppy Turd. All rights reserved.
+© 2025 Pooper Trooper. All rights reserved.
